@@ -26,3 +26,5 @@ Issues and/or bug fixes may be reported on [The Hub](https://community.extremene
 Fork this repository, make your changes, and submit a pull request. Or, follow the instructions described [here](https://extremeportal.force.com/ExtrArticleDetail?n=000007550).
 
 >Be Extreme
+
+Cool
